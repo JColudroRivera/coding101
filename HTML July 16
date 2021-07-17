@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir+"ltr">
+    <head>
+     <meta charset="utf-8">
+     <title> July 16 Class </title>
+     <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <p class="p1">This is a paragraph</p>
+  <img src="1.jpg" alt="">
+
+  <div class=""
+  <h3> 8 guys Rule: <br> only add new properties to each you can not delete or change the previous-->
+  <p class="p1"color=powderblue> 8 guys rule</p>
+  <p class="p1 p2"color=powderblue font-weight="bold">8 guys rule</p>
+  <p class="p1 p2 p3"color=powderblue font-weight="bold" font-size="40">8 guys rule</p>
+  <p class="p1 p2 p3 p4"color=powderblue font-weight="bold" font-size="40" font-style="italic">8 guys rule</p>
+  <p class="p1 p2 p3 p4 p5"color=powderblue font-weight="bold" font-size="40" font-style="italic" border: 2px solid green> 8 guys rule</p>
+  <p class="p1 p2 p3 p4 p5 p6"color=powderblue font-weight="bold" font-size="40" font-style="italic" border: 2px solid green border-radius:default>8 guys rule </p>
+  <p class="p1 p2 p3 p4 p5 p6 p7">"color=powderblue font-weight="bold" font-size="40" font-style="italic" border: 2px solid green border-radius:default>8 guys rule</p>
+  <p class="p1 p2 p3 p4p p5 p6 p7 p8">"color=powderblue font-weight="bold" font-size="40" font-style="italic" border: 2px solid green border-radius:default>8 guys rule</p>
+</div>
+
+
+
+</body>
+</html>
+
+
+
+{Property + Value}

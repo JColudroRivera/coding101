@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="#"> Home</a><br /><a href="#"> About</a><br /><a href="#"> Book</a><br /><a href="#"> Contact</a></p>
+<p>&nbsp;</p>
+<div>&nbsp;</div>
+<section style="border: solid;">Search for this website</section>
+<p><br /><button name="button" type="button"><a>Search</a></button></p>
+<table style="width: 100%; border-collapse: collapse; border-color: pink;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<p>This is the pink paragraph</p>
+<p>This is the pink paragraph</p>
+<p>This is the pink paragraph</p>
+<p><br /><button name="button" type="button"><a>This is another button</a></button></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /><textarea cols="80" name="name" rows="8">  &lt;p&gt;
+  Study button, input, forms, text elements
+  &lt;/p&gt;
+
+
+
+</textarea></p>
+<p>&nbsp;</p>
+<p><img title="" alt="" /></p>
+<!-- Multi Medias -->
+  <a ref="First Webpage.html>"&gt; Assignment 1&lt;/a&gt;
+<p>&nbsp;</p>
+</html>
