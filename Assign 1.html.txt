@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<head><b>&nbsp;Assignment Number 1 - July 12th 2021</b></head>
+<box>Hey! It looks like a paragraph but, there is a block/box here too. Find the HTML element other than &lt;p&gt; and &lt;h&gt;</box>
+<p><a href="http://www.google.com">This is a link to Google.</a></p>
+<p><img src="https://www.pewtrusts.org/-/media/post-launch-images/2021/01/gettyimages581747029jpgmaster/16x9_m.jpg?mw=1290&amp;hash=C01E5779EE0D0A780F3540015AA16690" alt="Ocean wave" width="445" height="250" /></p>
+<p>&nbsp;</p>
+<p><br /><em> Email me by clicking on <a href="mailto:jcoludro.rivera@gmail.com">jcoludro.rivera@gmail.com</a></em></p>
+<p><br /><em> Visit me at </em><a title="Puerto Rico Tourism Site" href="http://www.discoverpuertorico.com">Puerto Rico</a></p>
+<p>&nbsp;</p>
+<p><strong> My Favorite Beaches to Visit </strong></p>
+<p>&nbsp;</p>
+<div>
+<table style="height: 54px; width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="2">
+<tbody>
+<tr>
+<td style="width: 50%;"><span style="color: #0000ff;"><strong>Beach Name</strong></span></td>
+<td style="width: 50%;"><span style="color: #0000ff;"><strong>Town Name</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">Luquillo Beach</td>
+<td style="width: 50%; height: 18px;">Town of Fajardo</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">Crashboat Beach</td>
+<td style="width: 50%; height: 18px;">Town of Aguadilla</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">Playa Jobos</td>
+<td style="width: 50%; height: 18px;">Town of Guajataca</td>
+</tr>
+</tbody>
+</table>
+</div>
+</html>
